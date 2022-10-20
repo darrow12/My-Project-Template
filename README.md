@@ -32,24 +32,32 @@
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/2400x1500.png?text=Banana#vitrinedev)
+
+<hr>
+
+#### Topics
+
+<a href="#project">:bulb: · Project</a> | <a href="#coded">:rocket: · Built with</a> | <a href="#demo">:sparkles: · Demo</a> | <a href="#layout">:computer: · Layout</a> | <a href="#run">:inbox_tray: How to run & edit</a> | <a href="#license">:label: · License</a>
+
 </div>
 
 <br>
 
-## :bulb: · Project
+<h2 id="project">:bulb: · Project</h2>
 
 Bananas are really cool.
 
 <br>
 
-## :rocket: · Built with
+<h2 id="coded">:rocket: · Built with</h2>
+
 - Bananas
 - BANANA3
 - BananaJS
 
 <br>
 
-## :sparkles: · Demo
+<h2 id="demo">:sparkles: · Demo</h2>
 
 Want to see a live demo of the project is doing? It's already on the web!
 
@@ -59,7 +67,7 @@ Click the link to see: https://banana-darrow.com
 
 <br>
 
-## :computer: · Layout
+<h2 id="layout">:computer: · Layout</h2>
 
 Bananas can prototype interfaces
 
@@ -67,7 +75,7 @@ Bananas can prototype interfaces
 
 <br>
 
-## :inbox_tray: How to run & edit
+<h2 id="run">:inbox_tray: How to run & edit</h2>
 
 It's important that you have ![Node.js](https://nodejs.org) on your machine.
 
@@ -83,7 +91,7 @@ $ yarn dev
 
 <br>
 
-## :label: · License
+<h2 id="license">:label: · License</h2>
 
 This project is under the MIT license. See the [LICENSE](https://github.com/darrow12/REPO_NAME/blob/main/LICENSE) file for more details.
 
