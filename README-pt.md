@@ -17,10 +17,10 @@
   <br>
 
   <!-- Badges-->
-[![Made by Darrow](https://img.shields.io/badge/Made%20by-Darrow-6949FF?logo=github\&labelColor=1C1F2A)](https://github.com/darrow12)
+[![Feito por Darrow](https://img.shields.io/badge/Feito%20por-Darrow-6949FF?logo=github\&labelColor=1C1F2A)](https://github.com/darrow12)
 [![Contribuições abertas](https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-abertas-6949FF?labelColor=1C1F2A)](https://github.com/darrow12/REPO_NAME/pulls)
 [![Último commit](https://img.shields.io/github/last-commit/darrow12/REPO_NAME?color=6949FF\&labelColor=1C1F2A\&label=%C3%9Altimo%20commit)](https://github.com/darrow12/REPO_NAME/commits/main)
-![Tamanho do repo](https://img.shields.io/github/repo-size/darrow12/REPO_NAME?color=6949FF\&labelColor=1C1F2A\&label=Tamanho%20do%20repo)
+![Tamanho do repositório](https://img.shields.io/github/repo-size/darrow12/REPO_NAME?color=6949FF\&labelColor=1C1F2A\&label=Tamanho%20do%20repo)
 [![Licença: MIT](https://img.shields.io/github/license/darrow12/REPO_NAME?color=6949FF\&labelColor=1C1F2A\&label=Licen%C3%A7a)](https://github.com/darrow12/REPO_NAME/blob/main/LICENSE)
 
 | :placard: Vitrine.Dev |     |
